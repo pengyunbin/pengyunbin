@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Yunbin
 - 📚 I graduated as a master's student in statistics from the University of Michigan 〽️
+- 📚 I did my undergrad in the University of California, San Diego with double major in economics and applied mathematics. 
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 Feel free to take a look at [my portfolio](https://pengyunbin.github.io/)
 - 📫 How to reach me: pengyunbin@gmail.com
